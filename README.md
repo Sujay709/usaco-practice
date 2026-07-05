@@ -1,1 +1,0 @@
-Documenting my USACO competitive programming progression (Bronze to Platinum). Focused on developing the core algorithmic skills necessary for advanced robotics and ML projects.
