@@ -1,0 +1,6 @@
+a, b = map(int, input().split())
+c, d = map(int, input().split())
+interval_1 = set(range(a, b))
+interval_2 = set(range(c, d))
+painted_length = interval_1.union(interval_2)
+print(len(painted_length))
